@@ -1,0 +1,13 @@
+{
+    "file": "http://hms-dbmi.github.io/mc4c-sample-data/hs3-sites.csv",
+    "name": "HS3 (sites)",
+    "header": 1,
+    "separator": ",",
+    "skip": 0,
+    "meta": [
+        { "type": "id", "index": 0, "name": "Ring ID" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 1, "end": 26 }
+    ]
+}
