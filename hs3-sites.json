@@ -1,5 +1,5 @@
 {
-    "file": "http://hms-dbmi.github.io/mc4c-sample-data/hs3-sites.csv",
+    "file": "https://hms-dbmi.github.io/mc4c-sample-data/hs3-sites.csv",
     "name": "HS3 (sites)",
     "header": 1,
     "separator": ",",
