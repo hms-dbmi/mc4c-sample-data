@@ -1,7 +1,7 @@
 {
     "file": "https://hms-dbmi.github.io/mc4c-sample-data/hs3-sites.csv",
     "name": "HS3 (sites)",
-    "header": 1,
+    "header": 0,
     "separator": ",",
     "skip": 0,
     "meta": [
